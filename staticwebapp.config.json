@@ -2,6 +2,7 @@
   "routes": [
     {
       "route": "/.well-known/com.apple.remotemanagement",
+      "statusCode": 200,
       "headers": {
         "Content-Type": "application/json"
       }
